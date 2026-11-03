@@ -1013,10 +1013,14 @@
       "status": "confirmed",
       "priority": 2,
       "notes": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Kachori%20Sabzi%20Varanasi",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Ram%20Bhandar%20Varanasi",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "Ram Bhandar",
+      "area": "Thatheri Bazaar / Chowk",
+      "price": "₹30-60",
+      "when": "Mattina presto"
     },
     {
       "id": "f65",
@@ -1027,10 +1031,14 @@
       "status": "confirmed",
       "priority": 2,
       "notes": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Malaiyo%20Varanasi",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Chaukhamba%20Gali%20/%20Thatheri%20Bazaar%20/%20Godowlia%20Varanasi",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "Chaukhamba Gali / Thatheri Bazaar / Godowlia",
+      "area": "",
+      "price": "₹30-50",
+      "when": "Mattina presto"
     },
     {
       "id": "f66",
@@ -1041,10 +1049,14 @@
       "status": "confirmed",
       "priority": 2,
       "notes": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Tamatar%20Chaat%20Varanasi",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Deena%20Chaat%20Bhandar%20Varanasi",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "Deena Chaat Bhandar",
+      "area": "",
+      "price": "circa ₹40",
+      "when": "Prima o dopo la Ganga Aarti"
     },
     {
       "id": "f67",
@@ -1055,10 +1067,14 @@
       "status": "confirmed",
       "priority": 2,
       "notes": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Banarasi%20Lassi%20Varanasi",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Blue%20Lassi%20Shop%20Varanasi",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "Blue Lassi Shop",
+      "area": "Kachori Gali",
+      "price": "₹60-100",
+      "when": ""
     },
     {
       "id": "f68",
@@ -1069,10 +1085,14 @@
       "status": "confirmed",
       "priority": 2,
       "notes": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Choora%20Matar%20Varanasi",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Deena%20Chaat%20Bhandar%20Varanasi",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "Deena Chaat Bhandar",
+      "area": "",
+      "price": "",
+      "when": ""
     },
     {
       "id": "f69",
@@ -1083,10 +1103,14 @@
       "status": "confirmed",
       "priority": 2,
       "notes": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Litti%20Chokha%20Varanasi",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Baati%20Chokha%20Restaurant%20/%20Assi%20Ghat%20Varanasi",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "Baati Chokha Restaurant / Assi Ghat",
+      "area": "",
+      "price": "₹150-200",
+      "when": ""
     },
     {
       "id": "f70",
@@ -1097,10 +1121,14 @@
       "status": "confirmed",
       "priority": 2,
       "notes": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Banarasi%20Paan%20Varanasi",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Keshav%20Tambul%20Bhandar%20Varanasi",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "Keshav Tambul Bhandar",
+      "area": "",
+      "price": "₹30-80",
+      "when": ""
     },
     {
       "id": "f71",
@@ -1114,7 +1142,11 @@
       "maps": "https://www.google.com/maps/search/?api=1&query=Dal%20Bafla%20Khajuraho",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "",
+      "area": "",
+      "price": "",
+      "when": ""
     },
     {
       "id": "f72",
@@ -1128,7 +1160,11 @@
       "maps": "https://www.google.com/maps/search/?api=1&query=Bundelkhandi%20Thali%20Khajuraho",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "",
+      "area": "",
+      "price": "",
+      "when": ""
     },
     {
       "id": "f73",
@@ -1142,7 +1178,11 @@
       "maps": "https://www.google.com/maps/search/?api=1&query=Poha%20+%20Jalebi%20Khajuraho",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "",
+      "area": "",
+      "price": "",
+      "when": ""
     },
     {
       "id": "f74",
@@ -1156,7 +1196,11 @@
       "maps": "https://www.google.com/maps/search/?api=1&query=Bhutte%20ka%20Kees%20Khajuraho",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "",
+      "area": "",
+      "price": "",
+      "when": ""
     },
     {
       "id": "f75",
@@ -1167,10 +1211,14 @@
       "status": "confirmed",
       "priority": 2,
       "notes": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Bedai%20con%20Aloo%20Sabzi%20Gwalior",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Jayaji%20Chowk%20/%20Maharaj%20Bada%20Gwalior",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "Jayaji Chowk / Maharaj Bada",
+      "area": "",
+      "price": "",
+      "when": "Colazione"
     },
     {
       "id": "f76",
@@ -1181,10 +1229,14 @@
       "status": "confirmed",
       "priority": 2,
       "notes": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Poha%20+%20Jalebi%20Gwalior",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Jayaji%20Chowk%20/%20Maharaj%20Bada%20/%20Naya%20Bazaar%20Gwalior",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "Jayaji Chowk / Maharaj Bada / Naya Bazaar",
+      "area": "",
+      "price": "",
+      "when": "Colazione"
     },
     {
       "id": "f77",
@@ -1195,10 +1247,14 @@
       "status": "confirmed",
       "priority": 2,
       "notes": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Gwalior%20Gajak%20Gwalior",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Sarafa%20Bazaar%20Gwalior",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "Sarafa Bazaar",
+      "area": "",
+      "price": "",
+      "when": ""
     },
     {
       "id": "f78",
@@ -1209,10 +1265,14 @@
       "status": "confirmed",
       "priority": 2,
       "notes": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Petha%20Agra",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Agra%20Agra",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "Agra",
+      "area": "",
+      "price": "",
+      "when": ""
     },
     {
       "id": "f79",
@@ -1223,10 +1283,14 @@
       "status": "confirmed",
       "priority": 2,
       "notes": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Bedai%20+%20Aloo%20Sabzi%20+%20Jalebi%20Agra",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Agra%20Agra",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "Agra",
+      "area": "",
+      "price": "",
+      "when": "Colazione"
     },
     {
       "id": "f80",
@@ -1237,10 +1301,14 @@
       "status": "confirmed",
       "priority": 2,
       "notes": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Mutton%20Korma%20Agra",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Agra%20Agra",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "Agra",
+      "area": "",
+      "price": "",
+      "when": "Cena"
     },
     {
       "id": "f81",
@@ -1251,10 +1319,14 @@
       "status": "confirmed",
       "priority": 2,
       "notes": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Dalmoth%20Agra",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Agra%20Agra",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "Agra",
+      "area": "",
+      "price": "",
+      "when": ""
     },
     {
       "id": "f82",
@@ -1265,10 +1337,14 @@
       "status": "confirmed",
       "priority": 2,
       "notes": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Dal%20Baati%20Churma%20Jaipur",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Jaipur%20Jaipur",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "Jaipur",
+      "area": "",
+      "price": "",
+      "when": "Pranzo tradizionale"
     },
     {
       "id": "f83",
@@ -1279,10 +1355,14 @@
       "status": "confirmed",
       "priority": 2,
       "notes": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Pyaaz%20Kachori%20Jaipur",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Rawat%20Mishthan%20Bhandar%20Jaipur",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "Rawat Mishthan Bhandar",
+      "area": "Sindhi Camp",
+      "price": "",
+      "when": "Colazione / spuntino"
     },
     {
       "id": "f84",
@@ -1293,10 +1373,14 @@
       "status": "confirmed",
       "priority": 2,
       "notes": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Laal%20Maas%20Jaipur",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Jaipur%20Jaipur",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "Jaipur",
+      "area": "",
+      "price": "",
+      "when": "Cena"
     },
     {
       "id": "f85",
@@ -1307,10 +1391,14 @@
       "status": "confirmed",
       "priority": 2,
       "notes": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Gatte%20ki%20Sabzi%20Jaipur",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Jaipur%20Jaipur",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "Jaipur",
+      "area": "",
+      "price": "",
+      "when": "Rajasthani Thali"
     },
     {
       "id": "f86",
@@ -1321,10 +1409,14 @@
       "status": "confirmed",
       "priority": 2,
       "notes": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Ker%20Sangri%20Jaipur",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Jaipur%20Jaipur",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "Jaipur",
+      "area": "",
+      "price": "",
+      "when": "Rajasthani Thali"
     },
     {
       "id": "f87",
@@ -1335,10 +1427,14 @@
       "status": "confirmed",
       "priority": 2,
       "notes": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Mawa%20Kachori%20Jaipur",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Jaipur%20Jaipur",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "Jaipur",
+      "area": "",
+      "price": "",
+      "when": "Dopo cena"
     },
     {
       "id": "f88",
@@ -1349,10 +1445,14 @@
       "status": "confirmed",
       "priority": 2,
       "notes": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Mirchi%20Vada%20Jodhpur",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Sardar%20Market%20/%20Jalori%20Gate%20Jodhpur",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "Sardar Market / Jalori Gate",
+      "area": "",
+      "price": "",
+      "when": "Mattina"
     },
     {
       "id": "f89",
@@ -1363,10 +1463,14 @@
       "status": "confirmed",
       "priority": 2,
       "notes": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Makhaniya%20Lassi%20Jodhpur",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Shri%20Mishrilal%20Hotel%20Jodhpur",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "Shri Mishrilal Hotel",
+      "area": "Clock Tower / Sardar Market",
+      "price": "",
+      "when": "Durante le visite"
     },
     {
       "id": "f90",
@@ -1377,10 +1481,14 @@
       "status": "confirmed",
       "priority": 2,
       "notes": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Pyaaz%20Kachori%20Jodhpur",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Janta%20Sweet%20Home%20Jodhpur",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "Janta Sweet Home",
+      "area": "Nai Sarak",
+      "price": "",
+      "when": "Mattina"
     },
     {
       "id": "f91",
@@ -1391,10 +1499,14 @@
       "status": "confirmed",
       "priority": 2,
       "notes": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Mawa%20Kachori%20Jodhpur",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Jodhpur%20Jodhpur",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "Jodhpur",
+      "area": "",
+      "price": "",
+      "when": "Pomeriggio"
     },
     {
       "id": "f92",
@@ -1405,10 +1517,14 @@
       "status": "confirmed",
       "priority": 2,
       "notes": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Ker%20Sangri%20Jaisalmer",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Jaisalmer%20Jaisalmer",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "Jaisalmer",
+      "area": "",
+      "price": "",
+      "when": "Pranzo / cena"
     },
     {
       "id": "f93",
@@ -1419,10 +1535,14 @@
       "status": "confirmed",
       "priority": 2,
       "notes": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Bajra%20Roti%20Jaisalmer",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Jaisalmer%20Jaisalmer",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "Jaisalmer",
+      "area": "",
+      "price": "",
+      "when": "Con Ker Sangri"
     },
     {
       "id": "f94",
@@ -1433,10 +1553,14 @@
       "status": "confirmed",
       "priority": 2,
       "notes": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Gatte%20Ki%20Sabzi%20Jaisalmer",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Jaisalmer%20Jaisalmer",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "Jaisalmer",
+      "area": "",
+      "price": "",
+      "when": "Pranzo / cena"
     },
     {
       "id": "f95",
@@ -1447,10 +1571,14 @@
       "status": "confirmed",
       "priority": 2,
       "notes": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Ghotua%20Ladoo%20Jaisalmer",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Jaisalmer%20Jaisalmer",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "Jaisalmer",
+      "area": "",
+      "price": "",
+      "when": "Dolce / souvenir"
     },
     {
       "id": "f96",
@@ -1461,10 +1589,14 @@
       "status": "confirmed",
       "priority": 2,
       "notes": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Daulat%20Ki%20Chaat%20Delhi",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Chandni%20Chowk%20Delhi",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "Chandni Chowk",
+      "area": "",
+      "price": "",
+      "when": "Inverno"
     },
     {
       "id": "f97",
@@ -1475,10 +1607,14 @@
       "status": "confirmed",
       "priority": 2,
       "notes": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Chole%20Bhature%20Delhi",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Sita%20Ram%20Diwan%20Chand%20Delhi",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "Sita Ram Diwan Chand",
+      "area": "Paharganj",
+      "price": "circa ₹100",
+      "when": ""
     },
     {
       "id": "f98",
@@ -1489,10 +1625,14 @@
       "status": "confirmed",
       "priority": 2,
       "notes": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Seekh%20Kebab%20Delhi",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Zona%20Jama%20Masjid%20/%20Matia%20Mahal%20Delhi",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "Zona Jama Masjid / Matia Mahal",
+      "area": "",
+      "price": "",
+      "when": ""
     },
     {
       "id": "f99",
@@ -1503,10 +1643,14 @@
       "status": "confirmed",
       "priority": 2,
       "notes": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Nihari%20Delhi",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Zona%20Jama%20Masjid%20Delhi",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "Zona Jama Masjid",
+      "area": "",
+      "price": "",
+      "when": "Colazione / pasto"
     },
     {
       "id": "f100",
@@ -1517,10 +1661,14 @@
       "status": "confirmed",
       "priority": 2,
       "notes": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Dahi%20Bhalla%20Delhi",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Chandni%20Chowk%20Delhi",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "Chandni Chowk",
+      "area": "",
+      "price": "",
+      "when": ""
     },
     {
       "id": "f101",
@@ -1531,10 +1679,14 @@
       "status": "confirmed",
       "priority": 2,
       "notes": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Butter%20Chicken%20+%20Dal%20Makhani%20Delhi",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Daryaganj%20/%20Delhi%20Delhi",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "Daryaganj / Delhi",
+      "area": "",
+      "price": "",
+      "when": "Cena"
     },
     {
       "id": "f102",
@@ -1545,10 +1697,14 @@
       "status": "confirmed",
       "priority": 2,
       "notes": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Jalebi%20+%20Rabri%20Delhi",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Old%20Famous%20Jalebi%20Wala%20Delhi",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "venue": "Old Famous Jalebi Wala",
+      "area": "Chandni Chowk",
+      "price": "",
+      "when": ""
     },
     {
       "id": "t103",
@@ -1699,6 +1855,276 @@
       "priority": 3,
       "notes": "",
       "maps": "https://www.google.com/maps/search/?api=1&query=Delhi%20railway%20station",
+      "photo": "",
+      "favorite": false,
+      "visited": false
+    },
+    {
+      "id": "food2000",
+      "type": "food",
+      "city": "Varanasi",
+      "name": "Malai Toast + Kulhad Chai",
+      "subtitle": "Specialità da provare",
+      "status": "confirmed",
+      "priority": 2,
+      "notes": "",
+      "venue": "Lakshmi Chai Wala",
+      "area": "Godowlia Chowk",
+      "price": "₹30-50",
+      "when": "Colazione",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Lakshmi%20Chai%20Wala%20Varanasi",
+      "photo": "",
+      "favorite": false,
+      "visited": false
+    },
+    {
+      "id": "food2001",
+      "type": "food",
+      "city": "Varanasi",
+      "name": "Jalebi / Rabri-Jalebi",
+      "subtitle": "Specialità da provare",
+      "status": "confirmed",
+      "priority": 2,
+      "notes": "",
+      "venue": "Ksheer Sagar",
+      "area": "",
+      "price": "₹60-80",
+      "when": "",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Ksheer%20Sagar%20Varanasi",
+      "photo": "",
+      "favorite": false,
+      "visited": false
+    },
+    {
+      "id": "food2002",
+      "type": "food",
+      "city": "Varanasi",
+      "name": "Chena Dahi Vada",
+      "subtitle": "Specialità da provare",
+      "status": "confirmed",
+      "priority": 2,
+      "notes": "",
+      "venue": "Godowlia",
+      "area": "",
+      "price": "circa ₹40",
+      "when": "",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Godowlia%20Varanasi",
+      "photo": "",
+      "favorite": false,
+      "visited": false
+    },
+    {
+      "id": "food2003",
+      "type": "food",
+      "city": "Khajuraho",
+      "name": "Aloo Tikki / Chaat",
+      "subtitle": "Specialità da provare",
+      "status": "confirmed",
+      "priority": 2,
+      "notes": "",
+      "venue": "",
+      "area": "",
+      "price": "",
+      "when": "",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Aloo%20Tikki%20/%20Chaat%20Khajuraho",
+      "photo": "",
+      "favorite": false,
+      "visited": false
+    },
+    {
+      "id": "food2004",
+      "type": "food",
+      "city": "Khajuraho",
+      "name": "Bundeli Gosht",
+      "subtitle": "Specialità da provare",
+      "status": "confirmed",
+      "priority": 2,
+      "notes": "",
+      "venue": "",
+      "area": "",
+      "price": "",
+      "when": "",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Bundeli%20Gosht%20Khajuraho",
+      "photo": "",
+      "favorite": false,
+      "visited": false
+    },
+    {
+      "id": "food2005",
+      "type": "food",
+      "city": "Khajuraho",
+      "name": "Khoya Jalebi",
+      "subtitle": "Specialità da provare",
+      "status": "confirmed",
+      "priority": 2,
+      "notes": "",
+      "venue": "",
+      "area": "",
+      "price": "",
+      "when": "",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Khoya%20Jalebi%20Khajuraho",
+      "photo": "",
+      "favorite": false,
+      "visited": false
+    },
+    {
+      "id": "food2006",
+      "type": "food",
+      "city": "Gwalior",
+      "name": "Kachori",
+      "subtitle": "Specialità da provare",
+      "status": "confirmed",
+      "priority": 2,
+      "notes": "",
+      "venue": "Jayaji Chowk / Maharaj Bada",
+      "area": "",
+      "price": "",
+      "when": "",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Jayaji%20Chowk%20/%20Maharaj%20Bada%20Gwalior",
+      "photo": "",
+      "favorite": false,
+      "visited": false
+    },
+    {
+      "id": "food2007",
+      "type": "food",
+      "city": "Gwalior",
+      "name": "Bhutte ka Kees",
+      "subtitle": "Specialità da provare",
+      "status": "confirmed",
+      "priority": 2,
+      "notes": "",
+      "venue": "",
+      "area": "",
+      "price": "",
+      "when": "",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Bhutte%20ka%20Kees%20Gwalior",
+      "photo": "",
+      "favorite": false,
+      "visited": false
+    },
+    {
+      "id": "food2008",
+      "type": "food",
+      "city": "Gwalior",
+      "name": "Imarti",
+      "subtitle": "Specialità da provare",
+      "status": "confirmed",
+      "priority": 2,
+      "notes": "",
+      "venue": "",
+      "area": "",
+      "price": "",
+      "when": "",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Imarti%20Gwalior",
+      "photo": "",
+      "favorite": false,
+      "visited": false
+    },
+    {
+      "id": "food2009",
+      "type": "food",
+      "city": "Agra",
+      "name": "Seekh Kebab / Tandoori Chicken",
+      "subtitle": "Specialità da provare",
+      "status": "confirmed",
+      "priority": 2,
+      "notes": "",
+      "venue": "",
+      "area": "",
+      "price": "",
+      "when": "Cena",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Seekh%20Kebab%20/%20Tandoori%20Chicken%20Agra",
+      "photo": "",
+      "favorite": false,
+      "visited": false
+    },
+    {
+      "id": "food2010",
+      "type": "food",
+      "city": "Agra",
+      "name": "Chaat",
+      "subtitle": "Specialità da provare",
+      "status": "confirmed",
+      "priority": 2,
+      "notes": "",
+      "venue": "Sadar Bazaar / Kinari Bazaar",
+      "area": "",
+      "price": "",
+      "when": "",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Sadar%20Bazaar%20/%20Kinari%20Bazaar%20Agra",
+      "photo": "",
+      "favorite": false,
+      "visited": false
+    },
+    {
+      "id": "food2011",
+      "type": "food",
+      "city": "Jaipur",
+      "name": "Rajasthani Thali",
+      "subtitle": "Specialità da provare",
+      "status": "confirmed",
+      "priority": 2,
+      "notes": "",
+      "venue": "",
+      "area": "",
+      "price": "",
+      "when": "Cena",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Rajasthani%20Thali%20Jaipur",
+      "photo": "",
+      "favorite": false,
+      "visited": false
+    },
+    {
+      "id": "food2012",
+      "type": "food",
+      "city": "Jaipur",
+      "name": "Lassi",
+      "subtitle": "Specialità da provare",
+      "status": "confirmed",
+      "priority": 2,
+      "notes": "",
+      "venue": "MI Road",
+      "area": "",
+      "price": "",
+      "when": "",
+      "maps": "https://www.google.com/maps/search/?api=1&query=MI%20Road%20Jaipur",
+      "photo": "",
+      "favorite": false,
+      "visited": false
+    },
+    {
+      "id": "food2013",
+      "type": "food",
+      "city": "Delhi",
+      "name": "Paratha",
+      "subtitle": "Specialità da provare",
+      "status": "confirmed",
+      "priority": 2,
+      "notes": "",
+      "venue": "Paranthe Wali Gali",
+      "area": "Chandni Chowk",
+      "price": "",
+      "when": "",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Paranthe%20Wali%20Gali%20Delhi",
+      "photo": "",
+      "favorite": false,
+      "visited": false
+    },
+    {
+      "id": "food2014",
+      "type": "food",
+      "city": "Delhi",
+      "name": "Kulfi",
+      "subtitle": "Specialità da provare",
+      "status": "confirmed",
+      "priority": 2,
+      "notes": "",
+      "venue": "Kuremal Mohan Lal Kulfi Wale",
+      "area": "Chawri Bazar",
+      "price": "",
+      "when": "",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Kuremal%20Mohan%20Lal%20Kulfi%20Wale%20Delhi",
       "photo": "",
       "favorite": false,
       "visited": false
