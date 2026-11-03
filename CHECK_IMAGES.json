@@ -1,0 +1,146 @@
+{
+  "count": 28,
+  "uniqueHashes": true,
+  "images": [
+    {
+      "dish": "Kachori Sabzi",
+      "file": "dist/photos/food/kachori-sabzi.png",
+      "size_kb": 308
+    },
+    {
+      "dish": "Malaiyo",
+      "file": "dist/photos/food/malaiyo.png",
+      "size_kb": 323
+    },
+    {
+      "dish": "Tamatar Chaat",
+      "file": "dist/photos/food/tamatar-chaat.png",
+      "size_kb": 335
+    },
+    {
+      "dish": "Banarasi Lassi",
+      "file": "dist/photos/food/banarasi-lassi.png",
+      "size_kb": 334
+    },
+    {
+      "dish": "Choora Matar",
+      "file": "dist/photos/food/choora-matar.png",
+      "size_kb": 331
+    },
+    {
+      "dish": "Litti Chokha",
+      "file": "dist/photos/food/litti-chokha.png",
+      "size_kb": 373
+    },
+    {
+      "dish": "Banarasi Paan",
+      "file": "dist/photos/food/banarasi-paan.png",
+      "size_kb": 312
+    },
+    {
+      "dish": "Malai Toast + Kulhad Chai",
+      "file": "dist/photos/food/malai-toast-kulhad-chai.png",
+      "size_kb": 311
+    },
+    {
+      "dish": "Jalebi / Rabri-Jalebi",
+      "file": "dist/photos/food/jalebi-rabri-jalebi.png",
+      "size_kb": 331
+    },
+    {
+      "dish": "Chena Dahi Vada",
+      "file": "dist/photos/food/chena-dahi-vada.png",
+      "size_kb": 311
+    },
+    {
+      "dish": "Dal Bafla",
+      "file": "dist/photos/food/dal-bafla.png",
+      "size_kb": 358
+    },
+    {
+      "dish": "Bundelkhandi Thali",
+      "file": "dist/photos/food/bundelkhandi-thali.png",
+      "size_kb": 408
+    },
+    {
+      "dish": "Poha + Jalebi",
+      "file": "dist/photos/food/poha-jalebi.png",
+      "size_kb": 313
+    },
+    {
+      "dish": "Bhutte ka Kees",
+      "file": "dist/photos/food/bhutte-ka-kees.png",
+      "size_kb": 353
+    },
+    {
+      "dish": "Bedai con Aloo Sabzi",
+      "file": "dist/photos/food/bedai-con-aloo-sabzi.png",
+      "size_kb": 341
+    },
+    {
+      "dish": "Gwalior Gajak",
+      "file": "dist/photos/food/gwalior-gajak.png",
+      "size_kb": 398
+    },
+    {
+      "dish": "Kachori",
+      "file": "dist/photos/food/kachori.png",
+      "size_kb": 336
+    },
+    {
+      "dish": "Imarti",
+      "file": "dist/photos/food/imarti.png",
+      "size_kb": 332
+    },
+    {
+      "dish": "Petha",
+      "file": "dist/photos/food/petha.png",
+      "size_kb": 364
+    },
+    {
+      "dish": "Bedai + Aloo Sabzi + Jalebi",
+      "file": "dist/photos/food/bedai-aloo-sabzi-jalebi.png",
+      "size_kb": 326
+    },
+    {
+      "dish": "Mutton Korma",
+      "file": "dist/photos/food/mutton-korma.png",
+      "size_kb": 391
+    },
+    {
+      "dish": "Dalmoth",
+      "file": "dist/photos/food/dalmoth.png",
+      "size_kb": 331
+    },
+    {
+      "dish": "Seekh Kebab / Tandoori Chicken",
+      "file": "dist/photos/food/seekh-kebab-tandoori-chicken.png",
+      "size_kb": 376
+    },
+    {
+      "dish": "Chaat",
+      "file": "dist/photos/food/chaat.png",
+      "size_kb": 319
+    },
+    {
+      "dish": "Dal Baati Churma",
+      "file": "dist/photos/food/dal-baati-churma.png",
+      "size_kb": 368
+    },
+    {
+      "dish": "Pyaaz Kachori",
+      "file": "dist/photos/food/pyaaz-kachori.png",
+      "size_kb": 329
+    },
+    {
+      "dish": "Laal Maas",
+      "file": "dist/photos/food/laal-maas.png",
+      "size_kb": 404
+    },
+    {
+      "dish": "Gatte ki Sabzi",
+      "file": "dist/photos/food/gatte-ki-sabzi.png",
+      "size_kb": 376
+    }
+  ]
+}
