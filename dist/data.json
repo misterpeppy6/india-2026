@@ -132,7 +132,7 @@
       "priority": 3,
       "notes": "",
       "maps": "https://www.google.com/maps/search/?api=1&query=Assi%20Ghat%20Varanasi",
-      "photo": "",
+      "photo": "/photos/varanasi.png",
       "favorite": false,
       "visited": false
     },
@@ -244,7 +244,7 @@
       "priority": 3,
       "notes": "",
       "maps": "https://www.google.com/maps/search/?api=1&query=Western%20Group%20of%20Temples%20Khajuraho",
-      "photo": "",
+      "photo": "/photos/khajuraho.png",
       "favorite": false,
       "visited": false
     },
@@ -328,7 +328,7 @@
       "priority": 3,
       "notes": "",
       "maps": "https://www.google.com/maps/search/?api=1&query=Orchha%20Fort%20Complex%20Orchha",
-      "photo": "",
+      "photo": "/photos/orchha.png",
       "favorite": false,
       "visited": false
     },
@@ -426,7 +426,7 @@
       "priority": 3,
       "notes": "",
       "maps": "https://www.google.com/maps/search/?api=1&query=Gwalior%20Fort%20Gwalior",
-      "photo": "",
+      "photo": "/photos/gwalior.png",
       "favorite": false,
       "visited": false
     },
@@ -524,7 +524,7 @@
       "priority": 3,
       "notes": "",
       "maps": "https://www.google.com/maps/search/?api=1&query=Taj%20Mahal%20Agra",
-      "photo": "",
+      "photo": "/photos/agra.png",
       "favorite": false,
       "visited": false
     },
@@ -608,7 +608,7 @@
       "priority": 3,
       "notes": "",
       "maps": "https://www.google.com/maps/search/?api=1&query=Amber%20Fort%20Jaipur",
-      "photo": "",
+      "photo": "/photos/jaipur.png",
       "favorite": false,
       "visited": false
     },
@@ -706,7 +706,7 @@
       "priority": 3,
       "notes": "",
       "maps": "https://www.google.com/maps/search/?api=1&query=Mehrangarh%20Fort%20Jodhpur",
-      "photo": "",
+      "photo": "/photos/jodhpur.png",
       "favorite": false,
       "visited": false
     },
@@ -804,7 +804,7 @@
       "priority": 3,
       "notes": "",
       "maps": "https://www.google.com/maps/search/?api=1&query=Jaisalmer%20Fort%20Jaisalmer",
-      "photo": "",
+      "photo": "/photos/jaisalmer.png",
       "favorite": false,
       "visited": false
     },
@@ -888,7 +888,7 @@
       "priority": 3,
       "notes": "",
       "maps": "https://www.google.com/maps/search/?api=1&query=Red%20Fort%20Delhi%20Delhi",
-      "photo": "",
+      "photo": "/photos/delhi.png",
       "favorite": false,
       "visited": false
     },
@@ -1721,7 +1721,11 @@
       "maps": "https://www.google.com/maps/search/?api=1&query=Varanasi%20railway%20station",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "bookingStatus": "Da verificare",
+      "ticketUrl": "",
+      "pnr": "",
+      "seat": ""
     },
     {
       "id": "t104",
@@ -1738,7 +1742,11 @@
       "maps": "https://www.google.com/maps/search/?api=1&query=Khajuraho%20railway%20station",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "bookingStatus": "Da verificare",
+      "ticketUrl": "",
+      "pnr": "",
+      "seat": ""
     },
     {
       "id": "t105",
@@ -1755,7 +1763,11 @@
       "maps": "https://www.google.com/maps/search/?api=1&query=Orchha%20railway%20station",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "bookingStatus": "Da verificare",
+      "ticketUrl": "",
+      "pnr": "",
+      "seat": ""
     },
     {
       "id": "t106",
@@ -1772,7 +1784,11 @@
       "maps": "https://www.google.com/maps/search/?api=1&query=Gwalior%20railway%20station",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "bookingStatus": "Da verificare",
+      "ticketUrl": "",
+      "pnr": "",
+      "seat": ""
     },
     {
       "id": "t107",
@@ -1789,7 +1805,11 @@
       "maps": "https://www.google.com/maps/search/?api=1&query=Agra%20railway%20station",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "bookingStatus": "Da prenotare",
+      "ticketUrl": "",
+      "pnr": "",
+      "seat": ""
     },
     {
       "id": "t108",
@@ -1806,7 +1826,11 @@
       "maps": "https://www.google.com/maps/search/?api=1&query=Jaipur%20railway%20station",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "bookingStatus": "Da verificare",
+      "ticketUrl": "",
+      "pnr": "",
+      "seat": ""
     },
     {
       "id": "t109",
@@ -1823,7 +1847,11 @@
       "maps": "https://www.google.com/maps/search/?api=1&query=Jodhpur%20railway%20station",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "bookingStatus": "Da verificare",
+      "ticketUrl": "",
+      "pnr": "",
+      "seat": ""
     },
     {
       "id": "t110",
@@ -1840,7 +1868,11 @@
       "maps": "https://www.google.com/maps/search/?api=1&query=Jaisalmer%20railway%20station",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "bookingStatus": "Da verificare",
+      "ticketUrl": "",
+      "pnr": "",
+      "seat": ""
     },
     {
       "id": "t111",
@@ -1857,7 +1889,11 @@
       "maps": "https://www.google.com/maps/search/?api=1&query=Delhi%20railway%20station",
       "photo": "",
       "favorite": false,
-      "visited": false
+      "visited": false,
+      "bookingStatus": "Da prenotare",
+      "ticketUrl": "",
+      "pnr": "",
+      "seat": ""
     },
     {
       "id": "food2000",
@@ -2128,6 +2164,429 @@
       "photo": "",
       "favorite": false,
       "visited": false
+    },
+    {
+      "id": "stay1",
+      "type": "hotel",
+      "city": "Varanasi",
+      "name": "Assi Ghat – prima scelta",
+      "subtitle": "Zona consigliata",
+      "status": "confirmed",
+      "priority": 3,
+      "notes": "Miglior compromesso indicato nella guida: ghat raggiungibili a piedi e accesso più pratico.",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Assi%20Ghat%20%E2%80%93%20prima%20scelta%20Varanasi",
+      "photo": "",
+      "favorite": false,
+      "visited": false,
+      "stayKind": "area"
+    },
+    {
+      "id": "stay2",
+      "type": "hotel",
+      "city": "Varanasi",
+      "name": "Dashashwamedh Ghat / Godowlia",
+      "subtitle": "Zona consigliata",
+      "status": "confirmed",
+      "priority": 3,
+      "notes": "Massima immersione nella città vecchia.",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Dashashwamedh%20Ghat%20/%20Godowlia%20Varanasi",
+      "photo": "",
+      "favorite": false,
+      "visited": false,
+      "stayKind": "area"
+    },
+    {
+      "id": "stay3",
+      "type": "hotel",
+      "city": "Varanasi",
+      "name": "Shivala / Hanuman Ghat",
+      "subtitle": "Zona consigliata",
+      "status": "confirmed",
+      "priority": 3,
+      "notes": "Alternativa più tranquilla indicata nella guida.",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Shivala%20/%20Hanuman%20Ghat%20Varanasi",
+      "photo": "",
+      "favorite": false,
+      "visited": false,
+      "stayKind": "area"
+    },
+    {
+      "id": "stay4",
+      "type": "hotel",
+      "city": "Varanasi",
+      "name": "Palace on Ganges",
+      "subtitle": "Struttura da valutare",
+      "status": "confirmed",
+      "priority": 2,
+      "notes": "Assi Ghat Road.",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Palace%20on%20Ganges%20Varanasi",
+      "photo": "",
+      "favorite": false,
+      "visited": false,
+      "stayKind": "hotel"
+    },
+    {
+      "id": "stay5",
+      "type": "hotel",
+      "city": "Khajuraho",
+      "name": "Western Group / Sevagram",
+      "subtitle": "Zona consigliata",
+      "status": "confirmed",
+      "priority": 3,
+      "notes": "Zona pratica per raggiungere a piedi il gruppo occidentale dei templi.",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Western%20Group%20/%20Sevagram%20Khajuraho",
+      "photo": "",
+      "favorite": false,
+      "visited": false,
+      "stayKind": "area"
+    },
+    {
+      "id": "stay6",
+      "type": "hotel",
+      "city": "Khajuraho",
+      "name": "Hotel Siddharth",
+      "subtitle": "Struttura da valutare",
+      "status": "confirmed",
+      "priority": 2,
+      "notes": "Di fronte al Western Group secondo la fonte consultata.",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Hotel%20Siddharth%20Khajuraho",
+      "photo": "",
+      "favorite": false,
+      "visited": false,
+      "stayKind": "hotel"
+    },
+    {
+      "id": "stay7",
+      "type": "hotel",
+      "city": "Orchha",
+      "name": "Centro storico",
+      "subtitle": "Zona consigliata",
+      "status": "confirmed",
+      "priority": 3,
+      "notes": "Prima scelta della guida: a distanza pedonale dai monumenti.",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Centro%20storico%20Orchha",
+      "photo": "",
+      "favorite": false,
+      "visited": false,
+      "stayKind": "area"
+    },
+    {
+      "id": "stay8",
+      "type": "hotel",
+      "city": "Orchha",
+      "name": "Betwa River",
+      "subtitle": "Zona consigliata",
+      "status": "confirmed",
+      "priority": 3,
+      "notes": "Alternativa della guida per maggiore tranquillità.",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Betwa%20River%20Orchha",
+      "photo": "",
+      "favorite": false,
+      "visited": false,
+      "stayKind": "area"
+    },
+    {
+      "id": "stay9",
+      "type": "hotel",
+      "city": "Orchha",
+      "name": "MPT Betwa Retreat",
+      "subtitle": "Struttura da valutare",
+      "status": "confirmed",
+      "priority": 2,
+      "notes": "Struttura MP Tourism sul Betwa.",
+      "maps": "https://www.google.com/maps/search/?api=1&query=MPT%20Betwa%20Retreat%20Orchha",
+      "photo": "",
+      "favorite": false,
+      "visited": false,
+      "stayKind": "hotel"
+    },
+    {
+      "id": "stay10",
+      "type": "hotel",
+      "city": "Gwalior",
+      "name": "Lashkar",
+      "subtitle": "Zona consigliata",
+      "status": "confirmed",
+      "priority": 3,
+      "notes": "Zona indicata nella guida per la notte a Gwalior.",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Lashkar%20Gwalior",
+      "photo": "",
+      "favorite": false,
+      "visited": false,
+      "stayKind": "area"
+    },
+    {
+      "id": "stay11",
+      "type": "hotel",
+      "city": "Gwalior",
+      "name": "Gwalior Junction / Padav",
+      "subtitle": "Zona consigliata",
+      "status": "confirmed",
+      "priority": 3,
+      "notes": "Alternativa pratica per il trasferimento ferroviario.",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Gwalior%20Junction%20/%20Padav%20Gwalior",
+      "photo": "",
+      "favorite": false,
+      "visited": false,
+      "stayKind": "area"
+    },
+    {
+      "id": "stay12",
+      "type": "hotel",
+      "city": "Gwalior",
+      "name": "Park Inn by Radisson Gwalior",
+      "subtitle": "Struttura da valutare",
+      "status": "confirmed",
+      "priority": 2,
+      "notes": "Vicino alla stazione ferroviaria.",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Park%20Inn%20by%20Radisson%20Gwalior%20Gwalior",
+      "photo": "",
+      "favorite": false,
+      "visited": false,
+      "stayKind": "hotel"
+    },
+    {
+      "id": "stay13",
+      "type": "hotel",
+      "city": "Agra",
+      "name": "Taj East Gate Road / Tajganj",
+      "subtitle": "Zona consigliata",
+      "status": "confirmed",
+      "priority": 3,
+      "notes": "Base pratica per raggiungere presto il Taj Mahal.",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Taj%20East%20Gate%20Road%20/%20Tajganj%20Agra",
+      "photo": "",
+      "favorite": false,
+      "visited": false,
+      "stayKind": "area"
+    },
+    {
+      "id": "stay14",
+      "type": "hotel",
+      "city": "Agra",
+      "name": "Taj Agra",
+      "subtitle": "Struttura da valutare",
+      "status": "confirmed",
+      "priority": 2,
+      "notes": "Taj East Gate Road; vicino al Taj Mahal.",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Taj%20Agra%20Agra",
+      "photo": "",
+      "favorite": false,
+      "visited": false,
+      "stayKind": "hotel"
+    },
+    {
+      "id": "stay15",
+      "type": "hotel",
+      "city": "Jaipur",
+      "name": "Bani Park",
+      "subtitle": "Zona consigliata",
+      "status": "confirmed",
+      "priority": 3,
+      "notes": "Zona tranquilla con buona scelta di strutture e collegamenti.",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Bani%20Park%20Jaipur",
+      "photo": "",
+      "favorite": false,
+      "visited": false,
+      "stayKind": "area"
+    },
+    {
+      "id": "stay16",
+      "type": "hotel",
+      "city": "Jaipur",
+      "name": "C-Scheme / MI Road",
+      "subtitle": "Zona consigliata",
+      "status": "confirmed",
+      "priority": 3,
+      "notes": "Alternativa centrale e comoda.",
+      "maps": "https://www.google.com/maps/search/?api=1&query=C-Scheme%20/%20MI%20Road%20Jaipur",
+      "photo": "",
+      "favorite": false,
+      "visited": false,
+      "stayKind": "area"
+    },
+    {
+      "id": "stay17",
+      "type": "hotel",
+      "city": "Jaipur",
+      "name": "Bani Park Hotel",
+      "subtitle": "Struttura da valutare",
+      "status": "confirmed",
+      "priority": 2,
+      "notes": "Kabir Marg, Bani Park.",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Bani%20Park%20Hotel%20Jaipur",
+      "photo": "",
+      "favorite": false,
+      "visited": false,
+      "stayKind": "hotel"
+    },
+    {
+      "id": "stay18",
+      "type": "hotel",
+      "city": "Jodhpur",
+      "name": "Clock Tower / Old City",
+      "subtitle": "Zona consigliata",
+      "status": "confirmed",
+      "priority": 3,
+      "notes": "Base centrale per mercato e centro storico.",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Clock%20Tower%20/%20Old%20City%20Jodhpur",
+      "photo": "",
+      "favorite": false,
+      "visited": false,
+      "stayKind": "area"
+    },
+    {
+      "id": "stay19",
+      "type": "hotel",
+      "city": "Jodhpur",
+      "name": "Haveli Inn Pal",
+      "subtitle": "Struttura da valutare",
+      "status": "confirmed",
+      "priority": 2,
+      "notes": "Vicino alla Clock Tower.",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Haveli%20Inn%20Pal%20Jodhpur",
+      "photo": "",
+      "favorite": false,
+      "visited": false,
+      "stayKind": "hotel"
+    },
+    {
+      "id": "stay20",
+      "type": "hotel",
+      "city": "Jaisalmer",
+      "name": "Fuori dal Fort, vicino alle mura",
+      "subtitle": "Zona consigliata",
+      "status": "confirmed",
+      "priority": 3,
+      "notes": "Scelta pratica con accesso più semplice per bagagli e veicoli.",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Fuori%20dal%20Fort%2C%20vicino%20alle%20mura%20Jaisalmer",
+      "photo": "",
+      "favorite": false,
+      "visited": false,
+      "stayKind": "area"
+    },
+    {
+      "id": "stay21",
+      "type": "hotel",
+      "city": "Jaisalmer",
+      "name": "Fort Road / Hanuman Circle",
+      "subtitle": "Zona consigliata",
+      "status": "confirmed",
+      "priority": 3,
+      "notes": "Alternativa centrale esterna al forte.",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Fort%20Road%20/%20Hanuman%20Circle%20Jaisalmer",
+      "photo": "",
+      "favorite": false,
+      "visited": false,
+      "stayKind": "area"
+    },
+    {
+      "id": "stay22",
+      "type": "hotel",
+      "city": "Jaisalmer",
+      "name": "Hotel Heritage Haveli",
+      "subtitle": "Struttura da valutare",
+      "status": "confirmed",
+      "priority": 2,
+      "notes": "Fort Road.",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Hotel%20Heritage%20Haveli%20Jaisalmer",
+      "photo": "",
+      "favorite": false,
+      "visited": false,
+      "stayKind": "hotel"
+    },
+    {
+      "id": "stay23",
+      "type": "hotel",
+      "city": "Delhi",
+      "name": "Connaught Place",
+      "subtitle": "Zona consigliata",
+      "status": "confirmed",
+      "priority": 3,
+      "notes": "Base centrale per le giornate di visita.",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Connaught%20Place%20Delhi",
+      "photo": "",
+      "favorite": false,
+      "visited": false,
+      "stayKind": "area"
+    },
+    {
+      "id": "stay24",
+      "type": "hotel",
+      "city": "Delhi",
+      "name": "Aerocity",
+      "subtitle": "Zona consigliata",
+      "status": "confirmed",
+      "priority": 3,
+      "notes": "Scelta pratica per pernottamento vicino all’aeroporto.",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Aerocity%20Delhi",
+      "photo": "",
+      "favorite": false,
+      "visited": false,
+      "stayKind": "area"
+    },
+    {
+      "id": "stay25",
+      "type": "hotel",
+      "city": "Delhi",
+      "name": "Radisson Blu Marina Hotel, Delhi Connaught Place",
+      "subtitle": "Struttura da valutare",
+      "status": "confirmed",
+      "priority": 2,
+      "notes": "Middle Circle Road, Connaught Place.",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Radisson%20Blu%20Marina%20Hotel%2C%20Delhi%20Connaught%20Place%20Delhi",
+      "photo": "",
+      "favorite": false,
+      "visited": false,
+      "stayKind": "hotel"
     }
-  ]
+  ],
+  "cityDates": {
+    "Delhi": [
+      "2026-12-25",
+      "2026-12-26",
+      "2027-01-09",
+      "2027-01-10",
+      "2027-01-11",
+      "2027-01-12"
+    ],
+    "Varanasi": [
+      "2026-12-26",
+      "2026-12-27",
+      "2026-12-28"
+    ],
+    "Khajuraho": [
+      "2026-12-28",
+      "2026-12-29",
+      "2026-12-30"
+    ],
+    "Orchha": [
+      "2026-12-30",
+      "2026-12-31",
+      "2027-01-01"
+    ],
+    "Gwalior": [
+      "2027-01-01",
+      "2027-01-02"
+    ],
+    "Agra": [
+      "2027-01-02",
+      "2027-01-03"
+    ],
+    "Jaipur": [
+      "2027-01-03",
+      "2027-01-04",
+      "2027-01-05"
+    ],
+    "Jodhpur": [
+      "2027-01-05",
+      "2027-01-06",
+      "2027-01-07"
+    ],
+    "Jaisalmer": [
+      "2027-01-07",
+      "2027-01-08",
+      "2027-01-09"
+    ]
+  }
 }
