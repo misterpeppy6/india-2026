@@ -1,0 +1,1 @@
+Inserisci qui fotografie uniche e usa percorsi come /photos/amber-fort.jpg

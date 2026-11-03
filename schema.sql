@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS items (id TEXT PRIMARY KEY,type TEXT NOT NULL,city TEXT,name TEXT NOT NULL,subtitle TEXT,date TEXT,departure TEXT,arrival TEXT,status TEXT,priority INTEGER,notes TEXT,maps TEXT,photo TEXT,favorite INTEGER DEFAULT 0,visited INTEGER DEFAULT 0,updated_at TEXT DEFAULT CURRENT_TIMESTAMP);
