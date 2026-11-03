@@ -1,1 +1,7 @@
-{"name":"india-2026-guide","pages_build_output_dir":"./dist","d1_databases":[{"binding":"DB","database_name":"india-guide","database_id":"INSERISCI_DATABASE_ID"}]}
+{
+  "name": "india-2026",
+  "compatibility_date": "2026-11-03",
+  "assets": {
+    "directory": "./dist"
+  }
+}
