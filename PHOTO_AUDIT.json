@@ -1,0 +1,6 @@
+{
+  "generatedFoodFiles": 28,
+  "generatedFoodExactDuplicates": false,
+  "placePhotoStrategy": "Wikimedia Commons runtime unique URL selection",
+  "note": "La selezione Commons evita di riutilizzare lo stesso URL durante la sessione e mostra fonte/licenza disponibili."
+}
