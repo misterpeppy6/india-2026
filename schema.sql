@@ -1,1 +1,26 @@
-CREATE TABLE IF NOT EXISTS items (id TEXT PRIMARY KEY,type TEXT NOT NULL,city TEXT,name TEXT NOT NULL,subtitle TEXT,date TEXT,departure TEXT,arrival TEXT,status TEXT,priority INTEGER,notes TEXT,maps TEXT,photo TEXT,favorite INTEGER DEFAULT 0,visited INTEGER DEFAULT 0,updated_at TEXT DEFAULT CURRENT_TIMESTAMP);
+CREATE TABLE IF NOT EXISTS items (
+ id TEXT PRIMARY KEY,
+ type TEXT NOT NULL,
+ city TEXT NOT NULL DEFAULT '',
+ name TEXT NOT NULL,
+ subtitle TEXT DEFAULT '',
+ notes TEXT DEFAULT '',
+ venue TEXT DEFAULT '',
+ area TEXT DEFAULT '',
+ price TEXT DEFAULT '',
+ when_text TEXT DEFAULT '',
+ maps TEXT DEFAULT '',
+ photo TEXT DEFAULT '',
+ date TEXT DEFAULT '',
+ departure TEXT DEFAULT '',
+ arrival TEXT DEFAULT '',
+ booking_status TEXT DEFAULT '',
+ pnr TEXT DEFAULT '',
+ seat TEXT DEFAULT '',
+ ticket_url TEXT DEFAULT '',
+ favorite INTEGER NOT NULL DEFAULT 0,
+ visited INTEGER NOT NULL DEFAULT 0,
+ created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
+ updated_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
+);
+CREATE INDEX IF NOT EXISTS idx_items_type_city ON items(type, city);
